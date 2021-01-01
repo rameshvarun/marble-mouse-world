@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Example Course",
+    "id": "example",
+    "author": "Example Author",
+    "levels": ["example-map.glb"]
+  }
+]
